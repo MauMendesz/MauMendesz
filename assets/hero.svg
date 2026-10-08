@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="420" viewBox="0 0 1000 420" role="img" aria-labelledby="title desc">
+<title id="title">Mauricio Mendes — Automation and AI</title>
+<desc id="desc">A minimal system graph connects process, automation and evidence. Professional direction: RPA, workflows, agents and systems integration.</desc>
+<defs><linearGradient id="accent" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#b03582"/><stop offset="1" stop-color="#7556ba"/></linearGradient><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#262730" stroke-width="0.7"/></pattern></defs>
+<style>.pulse{animation:pulse 5s ease-in-out infinite}@keyframes pulse{0%,100%{opacity:.6}50%{opacity:1}}@media(prefers-reduced-motion:reduce){.pulse{animation:none}}</style>
+<rect width="1000" height="420" rx="24" fill="#101116"/><rect x="660" width="340" height="420" rx="24" fill="url(#grid)" opacity=".65"/>
+<path d="M42 40H120" stroke="url(#accent)" stroke-width="4"/>
+<text x="42" y="83" fill="#b4b4c0" font-family="Arial, sans-serif" font-size="17" letter-spacing="3">PROCESS · SYSTEMS · EVIDENCE</text>
+<text x="38" y="164" fill="#f4f4f7" font-family="Arial, sans-serif" font-size="62" font-weight="700">Mauricio Mendes</text>
+<text x="42" y="221" fill="#d6c5e6" font-family="Arial, sans-serif" font-size="33">Automation &amp; AI</text>
+<text x="42" y="263" fill="#acaebb" font-family="Arial, sans-serif" font-size="23">RPA · Workflows · Agents · Systems Integration</text>
+<path d="M42 304H610" stroke="#2f303a"/>
+<text x="42" y="351" fill="#d2d3db" font-family="Arial, sans-serif" font-size="22">Model the process. Validate the outcome.</text>
+<text x="42" y="385" fill="#9294a3" font-family="Arial, sans-serif" font-size="18">AI-assisted engineering, led by operational evidence.</text>
+<path d="M748 135H914V275H748V135Z" fill="none" stroke="#3e3d4c" stroke-width="2"/>
+<path d="M748 135L831 205L914 135M748 275L831 205L914 275" fill="none" stroke="#716085" stroke-width="2"/>
+<g fill="#1c1d26" stroke="url(#accent)" stroke-width="2"><rect x="732" y="119" width="32" height="32" rx="8"/><rect x="898" y="119" width="32" height="32" rx="8"/><rect x="732" y="259" width="32" height="32" rx="8"/><rect x="898" y="259" width="32" height="32" rx="8"/></g>
+<rect x="794" y="168" width="74" height="74" rx="18" fill="#1b1c25" stroke="url(#accent)" stroke-width="2"/>
+<path d="M816 158H846M831 149V166" stroke="#9785b0" stroke-width="2"/>
+<circle cx="818" cy="200" r="4" fill="#d4c4e6"/><circle cx="844" cy="200" r="4" fill="#d4c4e6"/><path d="M818 218H844" stroke="#b5a1cc" stroke-width="3" stroke-linecap="round"/>
+<circle class="pulse" cx="914" cy="135" r="6" fill="#a755a0"/>
+</svg>
