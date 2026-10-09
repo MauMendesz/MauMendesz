@@ -1,39 +1,57 @@
-![Mauricio Mendes — Automation & AI. RPA, workflows, agents and systems integration.](assets/hero.svg)
+[English](README.md) · [Português do Brasil](README.pt-BR.md)
 
-I work toward automation that connects process knowledge, systems and applied AI. My starting point is the operational problem: understand the rules, model the risks, test the behavior and keep the result traceable.
+![Mauricio Mendes — Automation & AI. RPA, workflows, AI agents, systems integration, process automation and data & process analysis.](assets/hero.svg)
 
-## Featured work
+## About me
 
-[![Safe Duplicate Invoice Automation — Python, Playwright, validation and recovery.](assets/featured-project.svg)](https://github.com/MauMendesz/siscomex-duplicate-invoice-automation-case-study)
+I focus on **Automation & AI**, bringing an operational perspective to process and data analysis. I map how work happens, uncover business rules, investigate exceptions and turn process problems into automation requirements.
 
-**An anonymized browser-automation case from a real Drawback workflow.**
+My direction connects **RPA, workflow automation, AI agents and systems integration**. I develop my practice through concrete projects, targeted learning and evidence-driven validation.
 
-I led process mapping, business rules, real-system testing and safety decisions. AI assisted implementation, architecture, tests and debugging. The case explains protected occurrence identity, explicit success, checkpoints, sequential execution and evidence-based recovery.
+## What I build
 
-[View case study →](https://github.com/MauMendesz/siscomex-duplicate-invoice-automation-case-study)
+My work and learning focus on these areas:
 
-The Python implementation was historically functional and validated. Current recovered end-to-end behavior remains unvalidated. Operational code and corporate data are private.
+| Processes & systems | Automation & AI |
+| --- | --- |
+| Process Automation | RPA |
+| Workflow Automation | AI-assisted Automation |
+| Systems Integration | AI Agents |
+| Process Optimization | Browser Automation |
 
 ## How I build
 
-**Problem → Model → Automate → Validate → Learn**
+**Problem → Map → Automate → Validate → Learn**
 
-I use an AI-assisted operating model that keeps project knowledge, reusable procedures, tools and evidence connected. Human judgment supplies the business rules and safety boundaries; validation determines what can be claimed. A planned capability is described as a plan, and an uncertain result remains uncertain.
+Understand the outcome. Map the process, rules and risks. Build with AI assistance where useful. Test the behavior against evidence. Learn from real exceptions and refine the approach.
 
-## Applied practice
+Human judgment sets the business rules and safety boundaries; validation determines what can be claimed.
 
-Process mapping · business-rule discovery · operational testing · evidence-driven debugging · automation risk analysis · bottleneck identification.
+## Toolbox
 
-**Used in the featured project:** Python with AI assistance, Playwright/Edge, Excel/openpyxl and JSON. Git and GitHub are part of my practical documentation/publication workflow. Project use is not a claim of advanced proficiency in every tool.
+| Tools / areas | Current state | Scope |
+| --- | --- | --- |
+| Playwright · Excel | CONFIRMED | Practical browser automation and professional spreadsheet use |
+| Git · GitHub | CONFIRMED | Basic repository and documentation-publication practice |
+| n8n · UiPath · AI Agents | LEARNING | Current study and professional direction |
+| Python · APIs | UNKNOWN | Python was used in AI-assisted project implementation; independent proficiency and practical API experience are not established |
 
-## Current direction and learning
+These states describe evidenced practice or learning, not seniority.
 
-My direction includes Automation Engineering, RPA, workflow automation, AI agents, systems integration and applied AI. I am learning **n8n, UiPath and AI-agent patterns** through concrete projects and targeted study.
+## Projects
+
+### Featured Project #01
+
+[![Duplicate Invoice Automation — Siscomex Drawback. Python, Playwright, Excel, Testing and RPA.](assets/featured-project.svg)](https://github.com/MauMendesz/siscomex-duplicate-invoice-automation-case-study)
+
+An anonymized case of browser automation for duplicate invoices, with explicit validation and failure recovery. I led process mapping, business rules and real-system testing; AI assisted implementation.
+
+[View Case Study →](https://github.com/MauMendesz/siscomex-duplicate-invoice-automation-case-study)
+
+<sub>Historically functional and validated; current recovered runtime remains unvalidated. Operational code and corporate data stay private.</sub>
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/mauricio-nascimento-mendes-336b072a8/) · [Public repositories](https://github.com/MauMendesz?tab=repositories)
+[LinkedIn](https://www.linkedin.com/in/mauricio-nascimento-mendes-336b072a8/) · [GitHub](https://github.com/MauMendesz) · [Email](mailto:mauriciodevmendes@gmail.com)
 
-Professional contact: [mauriciodevmendes@gmail.com](mailto:mauriciodevmendes@gmail.com)
-
-<sub>Custom versioned visuals; no external stats widgets. Last reviewed: 2026-10-08.</sub>
+<sub>[English](README.md) · [Português do Brasil](README.pt-BR.md)</sub>

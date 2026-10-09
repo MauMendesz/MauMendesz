@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+<title id="title">Mauricio Mendes — Automation &amp; AI</title><desc id="desc">RPA, workflows, Agentes de IA, Integração de sistemas, Automação de processos, Análise de dados e processos. An abstract connected system represents process-led automation.</desc>
+<defs><linearGradient id="accent" x1="0" x2="1"><stop stop-color="#96336f"/><stop offset="1" stop-color="#7654af"/></linearGradient></defs>
+<style>.signal{animation:signal 6s ease-in-out infinite}@keyframes signal{0%,100%{opacity:.55}50%{opacity:1}}@media(prefers-reduced-motion:reduce){.signal{animation:none}}</style>
+<rect width="1200" height="360" rx="22" fill="#101116"/><path d="M42 40H122" stroke="url(#accent)" stroke-width="4"/>
+<g font-family="Arial, sans-serif"><text x="42" y="86" font-size="28" fill="#b9bbc5">Mauricio Mendes</text><text x="38" y="165" font-size="68" font-weight="700" fill="#f5f5f7">Automation &amp; AI</text>
+<text x="42" y="221" font-size="32" fill="#d9d5e1">RPA · Workflows · Agentes de IA</text><text x="42" y="269" font-size="28" fill="#b9bbc5">Integração de sistemas · Automação de processos</text><text x="42" y="316" font-size="28" fill="#b9bbc5">Análise de dados e processos</text></g>
+<g fill="none" stroke="#393440" stroke-width="2"><path d="M901 84H1119V276H901Z"/><path d="M901 84L1010 180L1119 84M901 276L1010 180L1119 276"/></g>
+<g fill="#1a1a23" stroke="url(#accent)" stroke-width="2"><rect x="882" y="65" width="38" height="38" rx="9"/><rect x="1100" y="65" width="38" height="38" rx="9"/><rect x="882" y="257" width="38" height="38" rx="9"/><rect x="1100" y="257" width="38" height="38" rx="9"/><rect x="979" y="149" width="62" height="62" rx="15"/></g>
+<path d="M993 180H1027M1010 163V197" stroke="#c6b8d8" stroke-width="2"/><circle class="signal" cx="1119" cy="84" r="5" fill="#b574a1"/>
+</svg>

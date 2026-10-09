@@ -3,14 +3,26 @@ maintenance: MANUAL_REVIEWED_UPDATE
 name: Mauricio Mendes
 current_focus:
 - Automation & AI
-- Process-aware automation
-- Evidence-driven iteration
+- RPA
+- Workflow Automation
+- AI Agents
+- Systems Integration
+- Process Automation
+- Data & Process Analysis
 featured_project:
-  title: Safe Duplicate Invoice Automation
+  title: Duplicate Invoice Automation
   url: https://github.com/MauMendesz/siscomex-duplicate-invoice-automation-case-study
   historical_status: FUNCTIONAL / VALIDATED
   current_recovered_runtime: UNKNOWN
   operational_code_public: false
+  system: Siscomex Drawback
+  position: 1
+  technology_labels:
+  - Python
+  - Playwright
+  - Excel
+  - Testing
+  - RPA
 applied_project_tools:
 - Python (AI-assisted implementation)
 - Playwright / Edge
@@ -27,3 +39,35 @@ links:
   github: https://github.com/MauMendesz
   linkedin: https://www.linkedin.com/in/mauricio-nascimento-mendes-336b072a8/
 last_updated: '2026-10-08'
+presentation_version: 0.3-bilingual-candidate
+default_locale: en
+supported_locales:
+- en
+- pt-BR
+hierarchy:
+- Identity
+- About me
+- What I build
+- How I build
+- Toolbox
+- Projects
+- 'Featured Project #01'
+method:
+- Problem
+- Map
+- Automate
+- Validate
+- Learn
+toolbox:
+  confirmed:
+  - Playwright
+  - Excel
+  - Git
+  - GitHub
+  learning:
+  - n8n
+  - UiPath
+  - AI Agents
+  unknown:
+  - Python
+  - APIs
